@@ -1,0 +1,5 @@
+document.write("<scr"+"ipt src=\"https://web.ssp.yahoo.com/js/admax/admax_api_https.js?{random}&828747818&\"></scr"+"ipt>\n");
+
+document.write("<scr"+"ipt type=\"text/javascript\" src=\"https://aka-cdn.adtechus.com/apps/42/Ad11000874St3Sz170Sq26717598V4Id1/extFile01.js\"></scr"+"ipt>\n");
+
+

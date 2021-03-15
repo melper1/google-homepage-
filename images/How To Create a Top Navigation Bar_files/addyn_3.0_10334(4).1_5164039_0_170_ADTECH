@@ -1,0 +1,6 @@
+document.write("<scr"+"ipt src=\"https://web.ssp.yahoo.com/js/admax/admax_api_https.js?{random}&828747318&\"></scr"+"ipt>\n");
+
+document.write("<scr"+"ipt type=\"text/javascript\" src=\"https://aka-cdn.adtechus.com/apps/42/Ad11000874St3Sz170Sq26717598V4Id1/extFile01.js\"></scr"+"ipt>\n");
+var imageperf=new Image();
+imageperf.src='https://adserver.adtechus.com/adperf|2.0|10334|5164039|0|170|AdId=11000874;BnId=1;ct=1922325060;st=26974;ku=0;ccid=1;scid=1047470;iid=0;zcid=28812;subnid=1;camnid=10334;camsubnid=1;bnnr=26717598;ctlen=361;';
+

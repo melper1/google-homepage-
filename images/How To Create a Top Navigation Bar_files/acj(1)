@@ -1,0 +1,35 @@
+OX_8632028319({
+  "ads":{
+    "medium":"w",
+    "record_tmpl":"https://ox-delivery-prod-us-east1.openx.net/{medium}/1.0/{rtype}?bi=f2220424-99b3-4570-b442-4074c84dcd23&ba=1613066742&ph=c60c4e0c-5442-4600-876b-e4035d01b1eb&ts={txn_state}",
+    "pixels":"https://us-u.openx.net/w/1.0/pd?plm=6&ph=c60c4e0c-5442-4600-876b-e4035d01b1eb&bi=f2220424-99b3-4570-b442-4074c84dcd23&gdpr=0&us_privacy=1---",
+    "oxt": 93.836,
+    "adunits" : [
+      {
+        "auid":"540929539",
+        "idx":"0",
+        "chain_revenue":"",
+        "chain":[
+          {
+            "is_fallback":1,
+            "ad_id":"0",
+            "adv_acct_id":"",
+            "is_ng":1,
+            "adv_id":":",
+            "brand_id":"",
+            "cpipc":0,
+            "auct_win_is_deal":0,
+            "pub_rev":"",
+            "width":"300",
+            "height":"250",
+            "html":"<!-- Begin 33Across RevCTRL InPage -->\n<script id='x33x15754943526244571'>\nvar Tynt=Tynt||[];Tynt.push('cYC-XUfSWr6OkmaKlId8sQ');\nTynt.cmd=Tynt.cmd||[];Tynt.cmd.push(function(){\nTynt.ads.display('300x250','x33x15754943526244571','inpage');});\n(function(){var h,s=document.createElement('script');\ns.src=(window.location.protocol==='https:'?\n'https':'http')+'://cdn.tynt.com/siab.js?yHOcNemWPw&_ADTIME_&';\nh=document.getElementsByTagName('script')[0];\nh.parentNode.insertBefore(s,h);})();\n</script>\n<!-- End 33Across RevCTRL InPage -->",
+            "target":"_blank",
+            "ts":"2DAABBgABAAECAAIBAAsAAgAAAGQcGAphT2ZMcmlHVnVHHBbp8P2Lu_OD-OEBFovdqPbgnMjlwAEAHBa1963GzpfJ3DUWoa_y0LL2xe2CAQAWktz8hAwVAgAsHBUCAAAcJoa474MEFQQVBCaCuO-DBBbG8aCABAAAAA",
+            "type":"html",
+            "ad_url":"<!-- Begin 33Across RevCTRL InPage -->\n<script id='x33x15754943526244571'>\nvar Tynt=Tynt||[];Tynt.push('cYC-XUfSWr6OkmaKlId8sQ');\nTynt.cmd=Tynt.cmd||[];Tynt.cmd.push(function(){\nTynt.ads.display('300x250','x33x15754943526244571','inpage');});\n(function(){var h,s=document.createElement('script');\ns.src=(window.location.protocol==='https:'?\n'https':'http')+'://cdn.tynt.com/siab.js?yHOcNemWPw&_ADTIME_&';\nh=document.getElementsByTagName('script')[0];\nh.parentNode.insertBefore(s,h);})();\n</script>\n<!-- End 33Across RevCTRL InPage -->"
+          }
+        ]
+      }
+    ]
+  }
+});

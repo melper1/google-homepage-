@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<!-- saved from url=(0051)https://www.w3schools.com/howto/howto_js_topnav.asp -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <script src="./blacklist_script.js" type="text/javascript"></script>
+    <script src="./blocking_script.js" type="text/javascript"></script>
+    <script type="text/javascript">
+      function createTagDetails() {
+        var tagDetails = {};
+        tagDetails.w = 300;
+        tagDetails.h = 250;
+        tagDetails.dfpDetails = {
+          advertiserId: '107773',
+          creativeId: '107773',
+          campaignId: 'WF' +
+              '_Des' +
+              '_300x250' +
+              '_135'
+        };
+        tagDetails.au = '107773';
+        tagDetails.markupInDom = true;
+        tagDetails.refreshMessage = 'carambola_ADL_{"adId":107773,"elemId":"-1","apperance":"20","spot":"2","bannerId":"2"}';
+
+        var random = Math.round(Math.random() * 1e8);
+        tagDetails.currentTagId = "adltag_" + (((new Date()) * 1)) + "_" + random;
+        return tagDetails;
+      }
+      var random = "" + Math.round(Math.random() * 1e8);
+      var site_id = random + "_" + "carambola";
+      window[site_id]={};
+      window[site_id].tagDetails=createTagDetails();
+      blocker(site_id, "<!--ADL_WRAPPED-->", false, window);
+    </script>
+    <title>ad lighting</title>
+  <script type="text/javascript" id="ox_acj_8632028319" src="./acj(1)"></script></head>
+  <body marginwidth="0" marginheight="0">
+    <iframe id="ox_8632028319_540929539" name="ox_8632028319_540929539" width="300" height="250" framespacing="0" frameborder="no" scrolling="no" src="./saved_resource(63).html"></iframe>
+<script type="text/javascript">
+  var OX_ads = OX_ads || [];
+  OX_ads.push({
+     slot_id: "540929539_INSERT_SLOT_ID_HERE",
+     auid: "540929539"
+  });
+</script>
+
+<script type="text/javascript" src="./jstag"></script>
+  
+
+<iframe src="./pd(2).html" width="0" height="0" style="display:none;"></iframe></body></html>
